@@ -1,0 +1,73 @@
+h1 {
+    top: 10px;
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    color: skyblue
+    
+}
+
+h1:hover {
+    color: blue;
+}
+
+section id {
+    
+    border: 1px solid green;
+    padding: 2px;
+    margin: 2px;
+    background-color: green;
+}
+
+.ul {
+
+    padding-top: 30%;
+    position: relative;
+}
+
+table {
+    padding: 10px 10px;
+
+}
+
+.alkali {
+    background-color: #efea7c;
+}
+
+.alkaline {
+    background-color: #ff8b47;
+}
+
+.transition {
+    background-color: da8ee7;
+}
+
+.other {
+    background-color: #FFCBA5;
+}
+
+.othernon {
+    background-color: #FFDBE9;
+}
+
+.halogens {
+    background-color: #A7B688;
+}
+
+.nobel {
+    background-color: #C1C1C1;
+}
+
+.rare {
+    background-color: #E2FAB5;
+}
+
+.actinoid {
+    background-color: #9EECFF;
+}
+
+.tabhead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
